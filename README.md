@@ -1,6 +1,6 @@
 ### Kelvin Mwangi · Smart Contract Security Researcher
 
-Nairobi, Kenya (remote). I review smart contracts for Web3 and DeFi protocols: read the code, prove the bug with a working proof of concept, and report it at the right severity.
+I review smart contracts for Web3 and DeFi protocols: read the code, prove the bug with a working proof of concept, and report it at the right severity.
 
 **Portfolio:** [security-portfolio](https://github.com/keldxd/security-portfolio): exploit PoCs, fixes and writeups in Foundry.
 
