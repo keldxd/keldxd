@@ -10,6 +10,6 @@ I review smart contracts for Web3 and DeFi protocols: read the code, prove the b
 - Hunting on Cantina. Recently submitted a High-severity finding with a working PoC to a live competition (pending judging, details under embargo).
 - Reviewed: Uniswap v4 lending and hooks, ERC4626 / staking vaults, index (DTF) rebalancing, Solana (Anchor) token programs.
 
-**Tools:** Solidity · Foundry (fuzz and invariant testing, mainnet forks) · Python · TypeScript · Google Cloud
+**Tools:** Solidity · Foundry (fuzz and invariant testing, mainnet forks) · Python · TypeScript · Rust
 
 **Contact:** [rvxtremef@gmail.com](mailto:rvxtremef@gmail.com) · Telegram [@XtremeKel](https://t.me/XtremeKel)
